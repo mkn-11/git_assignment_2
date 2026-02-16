@@ -6,11 +6,9 @@
 
 # It demonstrates GitHub collaboration including branching,
 
-# pull requests, issues, merge conflicts, releases, and teamwork workflow.
+# pull requests, issues, merge conflicts, releases, and teamwork workflow etc.
 
 
 
 # git\_assignment\_2
-
-
 
