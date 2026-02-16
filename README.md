@@ -1,1 +1,3 @@
-# git_assignment_2
+# git_assignment
+collaborator : Rahul Gajula
+updated by collaborator
